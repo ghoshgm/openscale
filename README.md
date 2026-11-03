@@ -8,6 +8,9 @@ OpenScale aims to address these challenges by providing a vendor-neutral, applic
 
 The project draws inspiration from approaches to dynamic GPU memory management, such as those demonstrated by vLLM, and seeks to extend similar principles beyond the domain of AI inference.
 
+# Documentation
+Refer to the [roadmap](doc/ROADMAP.md) for latest development status.
+
 # Contributing
 OpenScale is an open-source project and contributions from the community are much appreciated.
 
